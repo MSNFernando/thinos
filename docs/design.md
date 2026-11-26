@@ -21,14 +21,25 @@ Status: early design (2026-11). Decisions so far, and what's still open.
 - **Writing a stick:** releases are images written with vBase Imager.
 - **Licence:** Apache 2.0; public development on GitHub.
 
+## Editions
+
+Two builds from the same base, system layout and update mechanism:
+
+- **thinOS Desktop:** the full desktop: the dock, the web browser (Chromium), the email
+  client (Thunderbird), settings, the Workspaces client and WireGuard.
+- **thinOS Connect:** the smallest build: sign-in, network and display settings,
+  WireGuard and the Workspaces client (RDP / SPICE) only. Starts straight into a desktop
+  session; for kiosks, shared desks and low-end hardware.
+
+First choices (2026-11): Chromium, Thunderbird, and Qt/QML for thinOS's own shell, since
+compatibility matters more than size on hardware with 4 GB of memory or more. Connect
+leaves the browser and email client out.
+
 ## Open questions
 
 - Compositor: `cage` (one full-screen app) with our shell as that app, or a small
   compositor of our own (e.g. on wlroots) so the dock and app windows are managed
   together.
-- Shell toolkit: Qt/QML (as vBase Imager uses) or GTK.
-- Browser: Chromium (broad site compatibility; large) or a WebKit-based browser (small).
-- Email client: Thunderbird (complete; large) or something lighter.
 - Updates: a delta format or whole images; where the update channel is hosted.
 - Hardware to support first: a few common thin-client models (x86_64), then ARM64.
 - Device management: enrolment with a vBase tenant, settings pushed from the console.
