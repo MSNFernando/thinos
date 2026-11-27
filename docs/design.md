@@ -35,6 +35,14 @@ First choices (2026-11): Chromium, Thunderbird, and Qt/QML for thinOS's own shel
 compatibility matters more than size on hardware with 4 GB of memory or more. Connect
 leaves the browser and email client out.
 
+## Wallpapers
+
+18 photographs from Unsplash (owner's choice, 2026-11-27) in `wallpapers/`, at 3840×2160 and
+1920×1080 (WebP), with `wallpapers.json` (titles, photographers, sources) for the picker in
+Settings, which credits the photographer ("Photo: Name, Unsplash"). Default: *Ember light*. They
+stay under the Unsplash License, not Apache 2.0 (`wallpapers/LICENSE.md`). The same set is
+offered in vBase: the console's sign-in page and a wallpaper choice for Windows VMs.
+
 ## Open questions
 
 - Compositor: `cage` (one full-screen app) with our shell as that app, or a small

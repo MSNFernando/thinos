@@ -1,0 +1,204 @@
+{
+  "default": "ember-light",
+  "licence": "Unsplash License",
+  "wallpapers": [
+    {
+      "id": "ember-light",
+      "title": "Ember light",
+      "photographer": "Sofia Lasheva",
+      "photographerUrl": "https://unsplash.com/@sofizz",
+      "source": "https://unsplash.com/photos/abstract-textured-background-with-orange-and-blue-light-zfLZXK5xNJk",
+      "files": {
+        "3840x2160": "3840x2160/ember-light.webp",
+        "1920x1080": "1920x1080/ember-light.webp"
+      }
+    },
+    {
+      "id": "blue-orange-smoke",
+      "title": "Blue orange smoke",
+      "photographer": "Lucas K",
+      "photographerUrl": "https://unsplash.com/@aznbokchoy",
+      "source": "https://unsplash.com/photos/blue-and-orange-smoke-wQLAGv4_OYs",
+      "files": {
+        "3840x2160": "3840x2160/blue-orange-smoke.webp",
+        "1920x1080": "1920x1080/blue-orange-smoke.webp"
+      }
+    },
+    {
+      "id": "icy-shapes",
+      "title": "Icy shapes",
+      "photographer": "Anton R",
+      "photographerUrl": "https://unsplash.com/@geometryline",
+      "source": "https://unsplash.com/photos/abstract-red-and-orange-shapes-behind-a-textured-icy-surface-xw36oA5f8h0",
+      "files": {
+        "3840x2160": "3840x2160/icy-shapes.webp",
+        "1920x1080": "1920x1080/icy-shapes.webp"
+      }
+    },
+    {
+      "id": "stone-pattern",
+      "title": "Stone pattern",
+      "photographer": "Hoang Dang Khoa",
+      "photographerUrl": "https://unsplash.com/@khoahd7621",
+      "source": "https://unsplash.com/photos/textured-gray-stone-wall-with-a-geometric-pattern-Of_Vjt9rcLE",
+      "files": {
+        "3840x2160": "3840x2160/stone-pattern.webp",
+        "1920x1080": "1920x1080/stone-pattern.webp"
+      }
+    },
+    {
+      "id": "blue-marble",
+      "title": "Blue marble",
+      "photographer": "Mike Hindle",
+      "photographerUrl": "https://unsplash.com/@mikehindle",
+      "source": "https://unsplash.com/photos/swirling-blue-and-white-marble-texture-C6AUqGSAsmg",
+      "files": {
+        "3840x2160": "3840x2160/blue-marble.webp",
+        "1920x1080": "1920x1080/blue-marble.webp"
+      }
+    },
+    {
+      "id": "grey-rocks",
+      "title": "Grey rocks",
+      "photographer": "M Polinder",
+      "photographerUrl": "https://unsplash.com/@margot97",
+      "source": "https://unsplash.com/photos/a-pile-of-rough-gray-rocks-1u0_8_shypg",
+      "files": {
+        "3840x2160": "3840x2160/grey-rocks.webp",
+        "1920x1080": "1920x1080/grey-rocks.webp"
+      }
+    },
+    {
+      "id": "rippled-water",
+      "title": "Rippled water",
+      "photographer": "Quinn Simonson",
+      "photographerUrl": "https://unsplash.com/@qsimo22",
+      "source": "https://unsplash.com/photos/sunlight-on-rippled-water-and-sand-I4un1zjQeWU",
+      "files": {
+        "3840x2160": "3840x2160/rippled-water.webp",
+        "1920x1080": "1920x1080/rippled-water.webp"
+      }
+    },
+    {
+      "id": "facade-panels",
+      "title": "Facade panels",
+      "photographer": "Matthew Jackson",
+      "photographerUrl": "https://unsplash.com/@levijackson",
+      "source": "https://unsplash.com/photos/modern-building-facade-with-horizontal-rectangular-panels-gJhP3zWzVz8",
+      "files": {
+        "3840x2160": "3840x2160/facade-panels.webp",
+        "1920x1080": "1920x1080/facade-panels.webp"
+      }
+    },
+    {
+      "id": "urban-texture",
+      "title": "Urban texture",
+      "photographer": "Jr Korpa",
+      "photographerUrl": "https://unsplash.com/@jrkorpa",
+      "source": "https://unsplash.com/photos/abstract-black-and-white-urban-texture-with-textured-overlay-eCZCs9wZyX8",
+      "files": {
+        "3840x2160": "3840x2160/urban-texture.webp",
+        "1920x1080": "1920x1080/urban-texture.webp"
+      }
+    },
+    {
+      "id": "fur-knot",
+      "title": "Fur knot",
+      "photographer": "Nick Design",
+      "photographerUrl": "https://unsplash.com/@nickshuperdesign",
+      "source": "https://unsplash.com/photos/a-close-up-of-a-stuffed-animal-on-a-white-surface-71r7e2N0iC0",
+      "files": {
+        "3840x2160": "3840x2160/fur-knot.webp",
+        "1920x1080": "1920x1080/fur-knot.webp"
+      }
+    },
+    {
+      "id": "grass-in-water",
+      "title": "Grass in water",
+      "photographer": "Quinn Simonson",
+      "photographerUrl": "https://unsplash.com/@qsimo22",
+      "source": "https://unsplash.com/photos/green-grass-blades-in-dark-water-w9ka3i94oKE",
+      "files": {
+        "3840x2160": "3840x2160/grass-in-water.webp",
+        "1920x1080": "1920x1080/grass-in-water.webp"
+      }
+    },
+    {
+      "id": "golden-mountain",
+      "title": "Golden mountain",
+      "photographer": "Dan Meyers",
+      "photographerUrl": "https://unsplash.com/@dmey503",
+      "source": "https://unsplash.com/photos/an-aerial-view-of-a-mountain-with-yellow-grass-ixfOcFtRSUk",
+      "files": {
+        "3840x2160": "3840x2160/golden-mountain.webp",
+        "1920x1080": "1920x1080/golden-mountain.webp"
+      }
+    },
+    {
+      "id": "yellow-black-aerial",
+      "title": "Yellow black aerial",
+      "photographer": "visualsoflukas",
+      "photographerUrl": "https://unsplash.com/@lukas_blass",
+      "source": "https://unsplash.com/photos/an-aerial-view-of-a-yellow-and-black-area-j7FgkW5FNCo",
+      "files": {
+        "3840x2160": "3840x2160/yellow-black-aerial.webp",
+        "1920x1080": "1920x1080/yellow-black-aerial.webp"
+      }
+    },
+    {
+      "id": "volcanic-crater",
+      "title": "Volcanic crater",
+      "photographer": "Maarten",
+      "photographerUrl": "https://unsplash.com/@maartenvnmlct",
+      "source": "https://unsplash.com/photos/aerial-view-of-a-volcanic-crater-with-surrounding-mossy-terrain-tcaj9_GKIVs",
+      "files": {
+        "3840x2160": "3840x2160/volcanic-crater.webp",
+        "1920x1080": "1920x1080/volcanic-crater.webp"
+      }
+    },
+    {
+      "id": "river-delta",
+      "title": "River delta",
+      "photographer": "Cosmin Andrei Buzamat",
+      "photographerUrl": "https://unsplash.com/@cos592",
+      "source": "https://unsplash.com/photos/aerial-view-of-a-river-delta-with-green-water-es9HfX92n_M",
+      "files": {
+        "3840x2160": "3840x2160/river-delta.webp",
+        "1920x1080": "1920x1080/river-delta.webp"
+      }
+    },
+    {
+      "id": "volcanic-hills-road",
+      "title": "Volcanic hills road",
+      "photographer": "Karsten Winegeart",
+      "photographerUrl": "https://unsplash.com/@_karsten",
+      "source": "https://unsplash.com/photos/winding-road-through-green-volcanic-hills-0eXTBUF-Luk",
+      "files": {
+        "3840x2160": "3840x2160/volcanic-hills-road.webp",
+        "1920x1080": "1920x1080/volcanic-hills-road.webp"
+      }
+    },
+    {
+      "id": "brown-waves",
+      "title": "Brown waves",
+      "photographer": "Zach M",
+      "photographerUrl": "https://unsplash.com/@zachmmalin",
+      "source": "https://unsplash.com/photos/textured-brown-surface-with-undulating-waves-6kMquYeWdf0",
+      "files": {
+        "3840x2160": "3840x2160/brown-waves.webp",
+        "1920x1080": "1920x1080/brown-waves.webp"
+      }
+    },
+    {
+      "id": "golden-waves",
+      "title": "Golden waves",
+      "photographer": "BoliviaInteligente",
+      "photographerUrl": "https://unsplash.com/@boliviainteligente",
+      "source": "https://unsplash.com/photos/abstract-golden-wavy-pattern-on-black-background-622-efdUTnA",
+      "files": {
+        "3840x2160": "3840x2160/golden-waves.webp",
+        "1920x1080": "1920x1080/golden-waves.webp"
+      }
+    }
+  ]
+}
